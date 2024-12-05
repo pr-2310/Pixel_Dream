@@ -66,7 +66,7 @@ Adjust parameters in the script as needed.
 ## 🖼️ Samples  
 Here are some stunning outputs from PixelDream:
 
-- **View Project on CivitAI**: [PixelDream Model](https://civitai.green/user/prithvirao/models?sort=Newest)
+- **View Project on CivitAI**: [PixelDream Model](https://civitai.green/posts/9920670)
 
 ---
 
