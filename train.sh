@@ -1,0 +1,1 @@
+accelerate launch train_text_to_image_lora.py --pretrained_model_name_or_path=runwayml/stable-diffusion-v1-5 --train_data_dir='pixel-data' --rank=16 --resolution=512 --center_crop --random_flip --train_batch_size=2 --num_train_epochs=10 --learning_rate=1e-04 --lr_scheduler="cosine" --lr_warmup_steps=2 --seed=42 --output_dir="output" --validation_prompt="A witch flying on a broom"
