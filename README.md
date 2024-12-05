@@ -3,6 +3,7 @@
 
 ![PixelDream in Action](pr_pixel_dream.gif)  
 *Empowering game developers to create high-quality 2D assets effortlessly.*
+*View Project on CivitAI: [PixelDream Model](https://civitai.green/user/prithvirao/models?sort=Newest.*
 
 ---
 
