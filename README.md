@@ -1,7 +1,7 @@
 
 # PixelDream: 2D Game Asset Generation Using Text-to-Image Diffusion Models
 
-![PixelDream in Action](path-to-your-gif.gif)  
+![PixelDream in Action](pr_pixel_dream.gif)  
 *Empowering game developers to create high-quality 2D assets effortlessly.*
 
 ---
@@ -21,14 +21,14 @@ PixelDream leverages advanced Text-to-Image (T2I) diffusion models, fine-tuned u
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/PixelDream.git
+git clone https://github.com/pr-2310/Pixel_Dream.git
 cd PixelDream
 ```
 
 ### 2. Download Checkpoints  
-- **Base Model**: [Download here](add path)  
+- **Base Model**: [Download here](https://civitai.green/models/1010709/pixeldream)  
   *(Place it in the `models/stable-diffusion` folder of your Stable Diffusion WebUI directory)*  
-- **LoRA Checkpoint**: [Download here](add path)  
+- **LoRA Checkpoint**: [Download here](https://civitai.green/models/1010793/pixeldreamlora)  
   *(Place it in the `models/lora` folder of your Stable Diffusion WebUI directory)*  
 
 ### 3. Stable Diffusion WebUI Setup  
@@ -65,17 +65,7 @@ Adjust parameters in the script as needed.
 ## 🖼️ Samples  
 Here are some stunning outputs from PixelDream:
 
-| **Prompt** | **Generated Asset** |
-|------------|----------------------|
-| Warrior fighting a dragon | ![Image](path-to-image1.png) |
-| Mystic forest background | ![Image](path-to-image2.png) |
-
-More examples can be found [here](path-to-your-sample-gallery).
-
----
-
-## 🌐 Explore More  
-- **View Project on CivitAI**: [PixelDream Model](https://civitai.com)
+- **View Project on CivitAI**: [PixelDream Model](https://civitai.green/user/prithvirao/models?sort=Newest)
 
 ---
 
@@ -85,6 +75,5 @@ PixelDream is a project focused on revolutionizing 2D game development. By adapt
 ### Limitations  
 - Limited diversity in asset styles.  
 - Future plans include expanding style variety through advanced fine-tuning techniques.
-
 
 ---
